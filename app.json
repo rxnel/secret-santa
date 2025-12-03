@@ -43,6 +43,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "1d56f690-7aea-44e4-afea-ecadb56f67ca"
+      }
+    },
+    "owner": "rxnel"
   }
 }
